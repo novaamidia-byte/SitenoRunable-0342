@@ -1,0 +1,159 @@
+{
+  "routes": [
+    {
+      "width": 1440,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/projetos",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/servicos",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/sobre",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/contato",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "route": "/auth",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/projetos",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/servicos",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/sobre",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/contato",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "route": "/auth",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/projetos",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/servicos",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/sobre",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/contato",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "route": "/auth",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/projetos",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/servicos",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/sobre",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/contato",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "route": "/auth",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/projetos",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/servicos",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/sobre",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/contato",
+      "overflow": false
+    },
+    {
+      "width": 360,
+      "route": "/auth",
+      "overflow": false
+    }
+  ],
+  "pageErrors": [],
+  "menuEscape": true,
+  "menuNavigation": true,
+  "filterReset": true,
+  "adminRedirect": true
+}

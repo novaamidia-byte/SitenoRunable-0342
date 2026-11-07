@@ -1,0 +1,44 @@
+{
+  "unchangedPages": {
+    "home": {
+      "sameDimensions": true,
+      "pixelIdentical": true
+    },
+    "services": {
+      "sameDimensions": true,
+      "pixelIdentical": true
+    }
+  },
+  "responsive": [
+    {
+      "width": 1440,
+      "menuHorizontalOverflow": false,
+      "bodyLocked": true
+    },
+    {
+      "width": 1024,
+      "menuHorizontalOverflow": false,
+      "bodyLocked": true
+    },
+    {
+      "width": 768,
+      "menuHorizontalOverflow": false,
+      "bodyLocked": true
+    },
+    {
+      "width": 390,
+      "menuHorizontalOverflow": false,
+      "bodyLocked": true
+    },
+    {
+      "width": 360,
+      "menuHorizontalOverflow": false,
+      "bodyLocked": true
+    }
+  ],
+  "pageErrors": [],
+  "menuEscapeAndFocus": true,
+  "categoryFilterNavigation": true,
+  "variantPreservedOnNavigation": true,
+  "variantComparison": true
+}
